@@ -1,3 +1,7 @@
+    删除macos和windows的字体可以节省900MB磁盘:
+    rm -rf ./aistudio2api-v0.3.1-linux-amd64/runtime/camoufox/fonts/macos
+    rm -rf ./aistudio2api-v0.3.1-linux-amd64/runtime/camoufox/fonts/windows
+
 <div align="center">
 
 # AI Studio to OpenAI, Anthropic & Gemini Compatible API
